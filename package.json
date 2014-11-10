@@ -1,0 +1,32 @@
+{
+  "name": "wethepeople",
+  "version": "1.0.0",
+  "description": "Node wrapper for the White House's We the People API",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/l12s/node-wethepeople.git"
+  },
+  "keywords": [
+    "whitehouse",
+    "wethepeople",
+    "government",
+    "petition"
+  ],
+  "author": "Leah Jones <leah@l12s.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/l12s/node-wethepeople/issues"
+  },
+  "homepage": "https://github.com/l12s/node-wethepeople",
+  "dependencies": {
+    "URIjs": "^1.14.1",
+    "joi": "^4.7.0",
+    "limiter": "^1.0.5",
+    "lodash": "^2.4.1",
+    "request": "^2.47.0"
+  }
+}
