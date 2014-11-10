@@ -1,6 +1,6 @@
 {
   "name": "wethepeople",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Node wrapper for the White House's We the People API",
   "main": "./lib/we_the_people.js",
   "directories": {"lib": "./lib"},
